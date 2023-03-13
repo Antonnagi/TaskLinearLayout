@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginHome">16dp</dimen>
+    <dimen name="marginImage">10dp</dimen>
+    <dimen name="textSizeTitle">16sp</dimen>
+    <dimen name="marginTitle">12dp</dimen>
+    <dimen name="textSizeJob">12sp</dimen>
+    <dimen name="marginJob">8dp</dimen>
+    <dimen name="locationM">6dp</dimen>
+    <dimen name="mLocation">2dp</dimen>
+    <dimen name="UKsize">13sp</dimen>
+    <dimen name="reviewSize">12sp</dimen>
+    <dimen name="backRadius">20dp</dimen>
+    <dimen name="paddHour">8dp</dimen>
+    <dimen name="paddHourV">3dp</dimen>
+</resources>
